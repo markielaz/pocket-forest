@@ -1,12 +1,13 @@
 {
   "expo": {
     "name": "PocketForest",
-    "slug": "PocketForest",
+    "slug": "pocketforest",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "owner": "marklazarus",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
