@@ -40,3 +40,10 @@ The idea of the app came after a discussion within our team about home gardens a
 
 * JavaScript
 
+# Testing
+
+if you would like to try the app for yourself, first, you'll need to download the Expo Go app onto your mobile phone - https://expo.dev/client. 
+
+Then simply visit this page - https://expo.dev/@marklazarus/pocketforest and scan the QR code in your phone's camera (iOS) or within the Expo Go app (Android) to open the app. 
+
+If you don't see users to choose from when you hit "login", give it a minute to load!
